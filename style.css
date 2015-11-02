@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: gray;
 }
 
 canvas {
@@ -12,5 +12,5 @@ canvas {
 }
 
 #canvas {
-  background-color: white;
+  background-color: black;
 }
